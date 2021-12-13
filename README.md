@@ -51,3 +51,8 @@ directory. This folder contains various documents from the original release,
 such as the game manual, FAQ, and even a CHANGELOG of all the changes made
 between version 4.81 and 5.5.2 (1987-2008).
 
+## Justin's Update
+
+I pulled this old version of Umoria code from the Git repository.
+This is going to be a complete mess while I play with large source code files. 
+If you are looking for Umoria search Github for Dungeons of Moria, Umoria.
